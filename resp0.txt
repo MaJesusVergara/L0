@@ -1,0 +1,437 @@
+    1  /Users/MariaJesus/Desktop/inkscape-table-1.0/install ; exit;
+    2  /Users/MariaJesus/Downloads/inkscape-table-1.0\ 2/install ; exit;
+    3  /Users/MariaJesus/Downloads/inkscape-table-1.0/install ; exit;
+    4  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+    5  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+    6  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+    7  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+    8  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+    9  echo $PATH
+   10  sudo emacs /etc/paths
+   11  brew
+   12  echo $PATH
+   13  sudo emacs /etc/paths
+   14  python --version
+   15  echo $PATH
+   16  emacs ~/.profile
+   17  echo $PATH
+   18  emacs ~/.profile
+   19  echo $PATH
+   20  emacs ~/.profile
+   21  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+   22  'brew doctor
+   23  brew doctor
+   24  brew doctor
+   25  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+   26  brew doctor
+   27  brew doctor
+   28  brew search python
+   29  brew install python
+   30  open /usr/local/Cellar/
+   31  echo $PATH
+   32  sudo emacs /etc/paths/
+   33  brew install python3
+   34  open /usr/local/Cellar/
+   35  brew search python
+   36  brew install python3
+   37  open /usr/local/Cellar/
+   38  [usuario@mipc ~]# uname -p
+   39  x86_64
+   40  [usuario@mipc ~]# 
+   41  [usuario@mipc ~]# uname -p
+   42  sudo tmutil disablelocal
+   43  sudo tmutil disablelocal
+   44  sudo tmutil disablelocal
+   45  cd desktop
+   46  cd ampl_macosx64/
+   47  './ampl' Modelo.run > prueba1.txt
+   48  './ampl' Modelo.run > prueb1.txt
+   49  './ampl' Modelo.run > prueb1.txt
+   50  './ampl' Modelo.run > prueb2.txt
+   51  './ampl' Modelo.run > pru1.txt
+   52  './ampl' Modelo.run > pru1.txt
+   53  './ampl' Modelo.run > pru1.txt
+   54  './ampl' Modelo.run > pru1.txt
+   55  './ampl' Modelo.run > pru1.txt
+   56  './ampl' Modelo.run > prus1.txt
+   57  './ampl' Modelo.run > prus1.txt
+   58  './ampl' Modelo.run > prus1.txt
+   59  './ampl' Modelo.run > prus1.txt
+   60  './ampl' Modelo.run > pru01.txt
+   61  './ampl' Modelo.run > pru01.txt
+   62  './ampl' Modelo.run > pru01.txt
+   63  './ampl' Modelo.run > pru1.txt
+   64  './ampl' Modelo.run > optimo1.txt
+   65  './ampl' Modelo.run > optimocapM1.txt
+   66  './ampl' Modelo.run > analisis1.txt
+   67  './ampl' Modelo.run > analisis1.txt
+   68  './ampl' Modelo.run > analisis1.txt
+   69  './ampl' Modelo.run > analisis1.txt
+   70  './ampl' Modelo.run > analisis11.txt
+   71  './ampl' Modelo.run > optimo.txt
+   72  './ampl' Modelo.run > optim000o.txt
+   73  './ampl' Modelo.run > om000o.txt
+   74  './ampl' Modelo.run > optimo.txt
+   75  './ampl' Modelo.run > analisisD2.txt
+   76  './ampl' Modelo.run > analisish1.txt
+   77  './ampl' Modelo.run > analisish1.txt
+   78  './ampl' Modelo.run > analisish1.txt
+   79  './ampl' Modelo.run > analisish11.txt
+   80  './ampl' Modelo.run > analisish111.txt
+   81  './ampl' Modelo.run > analisish1111.txt
+   82  './ampl' Modelo.run > analisisq1000.txt
+   83  './ampl' Modelo.run > Optimo.txt
+   84  './ampl' Modelo.run > Optimo.txt
+   85  './ampl' Modelo.run > optimoo.txt
+   86  './ampl' Modelo.run > cap13o.txt
+   87  './ampl' Modelo.run > capM90.txt
+   88  './ampl' Modelo.run > capM1280.txt
+   89  './ampl' Modelo.run > cap20.txt
+   90  './ampl' Modelo.run > A0.txt
+   91  './ampl' Modelo.run > ahora0.txt
+   92  './ampl' Modelo.run > ah0.txt
+   93  './ampl' Modelo.run > ah00.txt
+   94  /Users/MariaJesus/Documents/Ingeniería/2017/1º\ semestre/Métodos\ de\ optimización/ampl_macosx64/ampl ; exit;
+   95  /Users/MariaJesus/Documents/Ingeniería/2017/1º\ semestre/Métodos\ de\ optimización/ampl_macosx64/ampl ; exit;
+   96  /Users/MariaJesus/Documents/Ingeniería/2017/1º\ semestre/Métodos\ de\ optimización/ampl_macosx64/ampl ; exit;
+   97  /Users/MariaJesus/Documents/Ingeniería/2017/1º\ semestre/Métodos\ de\ optimización/ampl_macosx64/ampl ; exit;
+   98  /Users/MariaJesus/Documents/Ingeniería/2017/1º\ semestre/Métodos\ de\ optimización/Clases/Clase\ 2017-05-15/multirlprimal.mod 
+   99  /Users/MariaJesus/Documents/Ingeniería/2017/1º\ semestre/Métodos\ de\ optimización/ampl_macosx64/ampl ; exit;
+  100  /Users/MariaJesus/Documents/Ingeniería/2017/1º\ semestre/Métodos\ de\ optimización/ampl_macosx64/ampl ; exit;
+  101  /Users/MariaJesus/Desktop/ampl ; exit;
+  102  /Users/MariaJesus/Documents/Ingeniería/2017/1º\ semestre/Métodos\ de\ optimización/ampl_macosx64/baron ; exit;
+  103  /Users/MariaJesus/Desktop/ampl ; exit;
+  104  C:\> ampl multirlprimal.mod
+  105  pwd
+  106  echo $PATH
+  107  option solver `/path/to/gurobi`;
+  108  /usr/local/bin
+  109  GUROBI
+  110  gurobi
+  111  fingerprint -o fp.out
+  112  C:\> ampl
+  113  ampl
+  114  python
+  115  idle
+  116  idle
+  117  exec gurobi.sh
+  118  exec gurobi.sh
+  119  grbgetkey 8e690516-e76a-8791-e98d-59c18249565a
+  120  exec gurobi.sh
+  121  exec gurobi.sh
+  122  exec gurobi.sh
+  123  exec gurobi.sh
+  124  exec gurobi.sh
+  125  python
+  126  exec gurobi.sh
+  127  exec gurobi.sh
+  128  python -v
+  129  sudo easy_install pip
+  130  sudo pip install gurobipy
+  131  sudo pip install openpyxl
+  132  sudo pip2 install openpyxl
+  133  pip install openpyxl
+  134  pip3 install --user openpyxl
+  135  /Users/MariaJesus/Library/Application Support/Sublime Text 3/Packages/User]
+  136  find /Users/MariaJesus/Library/Application Support/Sublime Text 3/Packages/User]
+  137  fimd /Users/MariaJesus/Library/Application Support/Sublime Text 3/Packages/User "h"
+  138  fimd /Users/MariaJesus/Library/Application Support/Sublime Text 3/Packages/User "h.html"
+  139  sudo tmutil disablelocal
+  140  sudo tmutil disablelocal
+  141  sudo tmutil disablelocal
+  142  sudo tmutil disablelocal
+  143  sudo tmutil disablelocal
+  144  sudo tmutil disablelocal
+  145  sudo tmutil disablelocal
+  146  sudo tmutil disablelocal
+  147  sudo tmutil disablelocal
+  148  sudo tmutil disablelocal
+  149  sudo tmutil disablelocal
+  150  sudo tmutil disablelocal
+  151  sudo tmutil disablelocal
+  152  sudo tmutil disablelocal
+  153  sudo tmutil disablelocal
+  154  sudo tmutil disablelocal
+  155  sudo tmutil disablelocal
+  156  brew install biogeme
+  157  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  158  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  159  brew install biogeme
+  160  python
+  161  python RelajacionLagrangeana.py
+  162  sudo easy_install https://pypi.python.org/packages/source/n/networkx/networkx-1.8.1.tar.gz#md5=b4a9e68ecd1b0164446ee432d2e20bd0
+  163  sudo easy_install https://pypi.python.org/packages/source/n/networkx/networkx-1.8.1.tar.gz#md5=b4a9e68ecd1b0164446ee432d2e20bd0
+  164  import matplotlib
+  165  pip install matplotlib
+  166  exec gurobi.sh
+  167  grbgetkey e9da5e58-e938-11e8-9bfc-02e454ff9c50
+  168  grbgetkey e9da5e58-e938-11e8-9bfc-02e454ff9c50
+  169  exec gurobi.sh
+  170  grbgetkey e9da5e58-e938-11e8-9bfc-02e454ff9c50
+  171  grbgetkey e9da5e58-e938-11e8-9bfc-02e454ff9c50
+  172  e9da5e58-e938-11e8-9bfc-02e454ff9c50
+  173  grbgetkey e9da5e58-e938-11e8-9bfc-02e454ff9c50
+  174  exec gurobi.sh
+  175  exec gurobi.sh
+  176  exec gurobi.sh
+  177  exec gurobi.sh
+  178  exec gurobi.sh
+  179  list
+  180  help
+  181  dir
+  182  dirs
+  183  python
+  184  python
+  185  python
+  186  anaconda
+  187  conda list
+  188  conda config --add channels http://conda.anaconda.org/gurobi
+  189  conda install gurobi
+  190  conda list
+  191  conda list
+  192  conda remove gurobi
+  193  conda install gurobi=7
+  194  conda list
+  195  conda install gurobi=7.5.1
+  196  conda install python=3.5.0
+  197  coexec gurobi.sh
+  198  help
+  199  exec gurobi.sh
+  200  conda list
+  201  conda config --add channels http://conda.anaconda.org/gurobi
+  202  conda install gurobi =7.5.1
+  203  conda install gurobi=7.5.1
+  204  exec gurobi.sh
+  205  brew install git
+  206  git
+  207  git config --global user.name "María Jesús Vergara"
+  208  git config --global user.email muvergara@uc.cl
+  209  git user.name
+  210  git --help
+  211  git config user.name
+  212  git config user.email
+  213  git help config
+  214  git config user.name
+  215  git config --list
+  216  git init
+  217  git status
+  218  git add README
+  219  git add Ejemplo_gurobipy
+  220  git add Ejemplo_gurobipy.py
+  221  git status
+  222  git status
+  223  git add Ejemplo_gurobipy.py
+  224  git status
+  225  git diff
+  226  git diff
+  227  git add Ejemplo_gurobipy.py
+  228  git diff --cached
+  229  git commit Ejemplo_gurobipy.py
+  230  git commit
+  231  git commit -m "v1"
+  232  git status
+  233  git status
+  234  git add -a -m "v1"
+  235  git commit -a -m "v1"
+  236  git log
+  237  git diff
+  238  git log -p -2
+  239  git clone git://github.com/schacon/simplegit-progit.git
+  240  git config --global user.name "Maria Vergara"
+  241  git config user.name
+  242  git remote
+  243  cd simplegit-progit
+  244  git remote
+  245  git remote -v
+  246  git remote add pb git://github.com/paulboone/ticgit.gitsimplegit-progit.git
+  247  git remote -v
+  248  git tag
+  249  git remote -v
+  250  git config --global core.editor spyder
+  251  git config core.editor
+  252  git remote
+  253  git repository
+  254  git repository add "Ejemplo_gurobipy.py"
+  255  git repository add "Ejemplo_gurobipy.py" commit -m "My commit"
+  256  git repository add "Ejemplo_gurobipy.py" commit -m "My commit" push pb master
+  257  git repository add "Ejemplo_gurobipy.py" commit -m "My commit" push pb master add "file.py"
+  258  git repository add "Ejemplo_gurobipy.py" commit -m "My commit" push pb master add "file.py" commit -m "My commit"
+  259  git repository add "Ejemplo_gurobipy.py" commit -m "My commit" push pb master add "file.py" commit -m "My commit" push origin master
+  260  git status
+  261  git clone https://github.com/MaJesusVergara/Prueba
+  262  git status
+  263  git add
+  264  git add README
+  265  git status
+  266  git add README.md
+  267  git add Ejemplo_gurobipy.py
+  268  git status
+  269  git add README
+  270  git commit -m "v1"
+  271  $ git clone git://github.com/schacon/grit.git
+  272  git clone https://github.com/schacon/git-ruby
+  273  git status
+  274  git log -p -3
+  275  git add Prueba/README.md
+  276  git log -p -2
+  277  git log -p -2
+  278  git log
+  279  git log --pretty=oneline
+  280  git push origin master
+  281  git push Prueba master
+  282  git push
+  283  git push Prueba
+  284  git clone https://github.com/schacon/git-ruby
+  285  git clone https://github.com/MaJesusVergara/Prueba
+  286  git status
+  287  git add README.md
+  288  git add README
+  289  git add README.md
+  290  git add Prueba/README.md
+  291  git commit -m 'v1'
+  292  git status
+  293  git status
+  294  git status
+  295  git checkout -- Prueba/README.md
+  296  git status
+  297  git clone https://github.com/MaJesusVergara/Prueba
+  298  git diff
+  299  git clone https://github.com/MaJesusVergara/Prueba
+  300  git status
+  301  git rm README.md
+  302  git status
+  303  git commit -a -m 'v1'
+  304  git status
+  305  git add Prueba/Ejemplo_gurobipy.py
+  306  git status
+  307  git diff
+  308  git diff -- cached
+  309  git diff
+  310  git diff -- cached
+  311  git add Prueba/README.md
+  312  git diff -- cached
+  313  git diff --cached
+  314  git status
+  315  git status
+  316  git commit -m 'v2'
+  317  git diff
+  318  git diff --cached
+  319  git add Prueba/README.md
+  320  git status
+  321  git commit -m 'v3'
+  322  git diff
+  323  git diff --cached
+  324  git log -p -2
+  325  pwd
+  326  ls
+  327  git status
+  328  git clone https://github.com/MaJesusVergara/Prueba
+  329  git push
+  330  git push Prueba
+  331  git push --set-upstream Prueba master
+  332  git clone https://github.com/MaJesusVergara/Prueba
+  333  git status
+  334  git clone https://github.com/MaJesusVergara/P2.git
+  335  git status
+  336  git add P2/Actividades/AC00/bienvenida.py
+  337  git status
+  338  git commit -m 'se agrego bienvenida'
+  339  git status
+  340  git push
+  341  git push -u github master
+  342  git push -u P2 master
+  343  git push github master:master
+  344  git push P2 master:master
+  345  git remote -v
+  346  git remote -v
+  347  git branch -vv
+  348  git remote -v
+  349  git remote add origin git@github.com:MaJesusVergara/P2.git
+  350  git push --set-upstream origin master
+  351  git push --P2
+  352  git push --repo=P2
+  353  git push -f origin master
+  354  git remote -v
+  355  git push --set-upstream origin master
+  356  ls -al ~/.ssh
+  357  ssh-keygen -t rsa -b 4096 -C "muvergara@uc.cl"
+  358  eval "$(ssh-agent -s)"
+  359  ssh-add -K ~/.ssh/id_rsa
+  360  ls -al ~/.ssh
+  361  cat ~/.ssh/id_rsa.pub 
+  362  git push -u P2 master
+  363  git push --set-upstream origin master
+  364  git clone https://github.com/MaJesusVergara/Public.git
+  365  git clone https://github.com/MaJesusVergara/P3.git
+  366  git status
+  367  git add P3/Actividades/AC00/bienvenida.py
+  368  git status
+  369  git commit -m 'se agrego bienvenida a P3'
+  370  git push
+  371  git push --set-upstream origin master
+  372  git remote -v
+  373  git push --set-upstream origin master
+  374  git push -f origin master
+  375  git clone git@github.com:MaJesusVergara/P3.git
+  376  git add P3/bienvenida.py
+  377  git status
+  378  git commit -m 'sin carpeta'
+  379  git pull
+  380  git push
+  381  git push --set-upstream origin master
+  382  git remote -v
+  383  git push --repo=P3
+  384  git push --repo=git@github.com:MaJesusVergara/P3.git
+  385  git clone https://github.com/MaJesusVergara/P2.git
+  386  git add P2/README2.md
+  387  git commit -m 'version1'
+  388  git push
+  389  git remote -v
+  390  git push --set-upstream origin master
+  391  git push --repo=P2
+  392  git pull
+  393  git pull P2 master
+  394  git push --repo=P2
+  395  git pull origin master
+  396  git clone git@github.com:MaJesusVergara/P2.git
+  397  git push
+  398  git push --set-upstream origin master
+  399  git pull
+  400  git pull origin master
+  401  git remote -v
+  402  git clone https://github.com/IIC2115/Syllabus
+  403  git add .
+  404  git clone https://github.com/IIC2115/Syllabus.git
+  405  git clone https://github.com/IIC2115/Syllabus.git
+  406  git clone https://github.com/IIC2115/Syllabus.git
+  407  git clone https://github.com/IIC2115/Syllabus.git
+  408  git clone https://github.com/IIC2115/Syllabus.git
+  409  git clone https://github.com/IIC2115/Syllabus.git
+  410  git clone https://github.com/IIC2115/Syllabus.git
+  411  git clone https://github.com/MaJesusVergara/L0.git
+  412  git status
+  413  git add L0/prueba.txt
+  414  git status
+  415  git commit -m 'Archivo de prueba'
+  416  git status
+  417  git push
+  418  git push --set-upstream origin master
+  419  git clone https://github.com/IIC2115/Syllabus.git
+  420  git clone https://github.com/MaJesusVergara/L0.git
+  421  cd /Users/MariaJesus
+  422  git add .
+  423  cd /Users/MariaJesus/L0
+  424  git add .
+  425  git add .
+  426  git clone https://github.com/IIC2115/Syllabus.git
+  427  git clone https://github.com/IIC2115/Syllabus.git
+  428  git clone https://github.com/IIC2115/Syllabus.git
+  429  git clone https://github.com/IIC2115/Syllabus.git
+  430  git clone https://github.com/IIC2115/Syllabus.git
+  431  git clone https://github.com/MaJesusVergara/L0.git
+  432  cd /Users/MariaJesus/L0
+  433  git add .
+  434  git commit -m 'Archivoprueba3'
+  435  git push
+  436  git pull
+  437  history
